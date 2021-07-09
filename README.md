@@ -33,7 +33,7 @@
   <!-- main wrap -->
   <div class="main-wrap">
 
-    <!-- header -->
+    
     <header>
       <!-- top area -->
       <div class="top-nav">
