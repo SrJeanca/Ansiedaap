@@ -15,7 +15,7 @@ Limitaciones del proyecto a teneren cuenta :
 No se realizarán actualizaciones del programa según los nuevos estudios y resultados de investigación sobre ataques de ansiedad.
 No se tendrá en cuenta la edad de la persona que utilice la aplicación, pues esto supone métodos diferentes de enfrentar un ataque de ansiedad.
 
-Imagenes de como se ve la aplicación hasta eset punto:
+Imagenes de como se ve la aplicación hasta este punto:
 
 ![Permisos](https://user-images.githubusercontent.com/35411905/125014297-ab2c7d80-e02a-11eb-9aec-cc8bbc223665.jpeg)
 
@@ -31,7 +31,7 @@ A continuación se podrá descargar el archivo ejecutable APK para el sistema An
 
 ** La aplicación si corre en tablet pero aún se deben configurar los tamaños y disposiciones para estas resoluciones.
 
-Link
+Link: https://1drv.ms/u/s!AhHnvYvtKgyQi0oTe4gZqIG-RO75?e=tgaKxl
 
 
 
