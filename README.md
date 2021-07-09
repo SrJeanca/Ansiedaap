@@ -1,5 +1,5 @@
 
-<!DOCTYPE HTML>
+
 <html>
 
 <head>
@@ -30,12 +30,10 @@
 
 <body>
 
-  <!-- main wrap -->
+
   <div class="main-wrap">
 
-    
     <header>
-      <!-- top area -->
       <div class="top-nav">
         <div class="wrapper">
           <div class="logo">
