@@ -185,7 +185,7 @@
             <!-- CTA -->
             <div class="cta">
               <div class="btn-group">
-                <a href="https://1drv.ms/u/s!AhHnvYvtKgyQi0oTe4gZqIG-RO75?e=tgaKxl" class="btn btn-green btn-large" target="_blank"> Descargar</a>
+                <a href="https://1drv.ms/u/s!AhHnvYvtKgyQi0skPkigAbJCZT2e?e=Dhkm8x" class="btn btn-green btn-large" target="_blank"> Descargar</a>
                 
               </div>
             </div>
