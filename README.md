@@ -6,13 +6,13 @@ De igual manera si se usará fuera de un ataque de ansiedad, ayudaría a saber q
 
 Datos a tomar en cuenta:
 
-SALUD
+--SALUD
 
   Siempre buscar un profesional de la salud mental.
   Tener en cuenta que no es una aplicación milagrosa, y que el seguimiento de los ejercicios de respiración es lo que ayudará en gran medida a sobrellevar la situación.
   El sistema NO es desarrollado de la mano y guía de un especialista de la salud mental, por lo que se tiene que tomar como una herramienta para personas que solo           necesitan un recordatorio de la realización de los ejercicios de respiración expuestos por el asistente, además de que al no ser un humano, no posee las herramientas     naturales para saber si se necesita de una ayuda externa más especializada en un ataque cuyo grado de ansiedad aumente de manera desenfrenada.
 
-APLICACIÓN
+--APLICACIÓN
 
   La aplicación debe contar con internet para poder funcionar.
    A pesar de parecer una limitación la aplicación tendrá la posibilidad de trabajar sin acceso, en lo que se considerará "Modo manual", esto pues sin el acceso a internet no es posible usar la Inteligencia Artificial asociada a la aplicación.
