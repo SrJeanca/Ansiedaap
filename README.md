@@ -154,7 +154,7 @@
 			<br></br>
 			<h3>Versión minima y uso en Tablets</h3>
 			<p>
-				La versión minima soportada por la aplicación es la 4.3
+				La versión minima soportada por la aplicación es la 5.0 (LOLLIPOP). 
 			</p>
 			<p>			
 				La aplicación si corre en tablet pero aún se deben configurar los tamaños y disposiciones para estas resoluciones, por lo que es posible que no tenga un diseño agradable a la vista.
